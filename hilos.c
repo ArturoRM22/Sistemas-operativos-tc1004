@@ -4,7 +4,7 @@
 int saldo;
 
 void * holaHilo(){  
-    printf("Hola desde hilo \n");
+    printf("Hola desde hiloo \n");
     pthread_exit(NULL);
 }
 
